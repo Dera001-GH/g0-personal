@@ -1,0 +1,3 @@
+<Page x:Class="StudioApp.MainPage">
+  <TextBlock Text="Published from Studio" />
+</Page>
